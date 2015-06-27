@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/06/2015, 09:52:50 PM
+    Author     : arturo
+*/
+body {
+    width: 600px;
+    height: 500px;
+    background: rgb(200,136,155);
+    
+}
+span {
+    color:blue;
+}
+#cabecera {
+        width: 100%;
+        height: 100px;
+        text-align: center;
+	background: #FFFBB9;
+	border: 1px solid #999999;
+	padding: 20px;
+        margin: 20px;
+	Box-shadow: rgb(255,150,150) 5px 5px 10px 3px intset;
+	text-shadow: rgba(255,150,150, .5 ) 3px 5px 5px;
+	color: hsl(220, 40%, 60%, 0.5);
+	/*Outline: 2px dashed #000099;*/
+	outline-offset: 15px;
+}
+#miformulario {
+    padding: 40px;
+    float: left;
+    width: 100%;
+    margin: 20px;
+    height: 400px;
+    background: rgb(0,236,255);
+}
+#pie {
+clear: both;
+text-align: center;
+padding: 20px;
+margin: 20px;
+border-top: 2px solid #999999;
+width: 100%;
+height: 50px;
+background: rgb(0,180,34);
+}
