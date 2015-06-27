@@ -9,7 +9,7 @@
     </head>
 
     <body>
-        <form action="saludo.json">
+        <form action="saludo.htm">
             Ingrese su nombre: <input type="text" name="nombre"/>
             <input type="submit" value="Muestra saludo" />
         </form>
